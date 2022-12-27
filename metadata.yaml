@@ -1,0 +1,32 @@
+_repo: Nineteen-hundred-A-forecast-and-a-story_69638
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farningham, Marianne
+    aliases:
+    - Hope, Eva
+    - Hearn, Mary Anne
+    - Hearne, Mary Anne
+    birthdate: 1834
+    deathdate: 1909
+    gutenberg_agent_id: '25791'
+    url: http://www.gutenberg.org/2009/agents/25791
+description: ''
+gutenberg_issued: '2022-12-26'
+identifiers:
+  gutenberg: '69638'
+language: en
+pgterms:marc904: https://archive.org/details/nineteenhundredf00farn
+pgterms:marc905: 20190315135747farningham
+pgterms:marc906: '1892'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United Kingdom: James Clarke & Co.,1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Nineteen hundred?: A forecast and a story'
+url: http://www.gutenberg.org/ebooks/69638
